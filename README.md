@@ -6,7 +6,7 @@ Styles for the react-slick carousel component
 
 #### What is this?
 
-This package is designed to supplement [rect-slick](https://github.com/akiran/react-slick) with the css, less, and scss files from the original [slick](https://github.com/kenwheeler/slick) carousel. It includes both the base styles and theme styles.
+This package is designed to supplement [react-slick](https://github.com/akiran/react-slick) with the css, less, and scss files from the original [slick](https://github.com/kenwheeler/slick) carousel. It includes both the base styles and theme styles.
 
 #### Files
 
