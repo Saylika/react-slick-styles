@@ -1,5 +1,7 @@
 # react-slick-styles
 
+[![npm](https://img.shields.io/npm/v/react-slick-styles.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/react-slick-styles) [![npm](https://img.shields.io/npm/dm/react-slick-styles.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/react-slick-styles)
+
 Styles for the react-slick carousel component
 
 #### What is this?
@@ -10,15 +12,15 @@ This package is designed to supplement [rect-slick](https://github.com/akiran/re
 
 Base Styles:
 
-- `slick.css`
-- `slick.less`
-- `slick.scss`
+- `slick/slick.css`
+- `slick/slick.less`
+- `slick/slick.scss`
 
 Theme Styles:
 
-- `slick-theme.css`
-- `slick-theme.less`
-- `slick-theme.scss`
+- `slick/slick-theme.css`
+- `slick/slick-theme.less`
+- `slick/slick-theme.scss`
 
 #### Sass Variables
 
